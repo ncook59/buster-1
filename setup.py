@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """The setup script."""
-
+# !pip install 'C:/Users/Owner/OneDrive/Desktop/gitRepos/buster/setuptools-75.6.0-py3-none-any.whl'
 from setuptools import setup, find_packages
 
 
